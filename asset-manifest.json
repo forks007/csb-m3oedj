@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://forks007.github.io/csb-m3oedj/static/css/main.060d2b15.chunk.css",
+    "main.js": "https://forks007.github.io/csb-m3oedj/static/js/main.d1d81e20.chunk.js",
+    "main.js.map": "https://forks007.github.io/csb-m3oedj/static/js/main.d1d81e20.chunk.js.map",
+    "runtime-main.js": "https://forks007.github.io/csb-m3oedj/static/js/runtime-main.02a6858e.js",
+    "runtime-main.js.map": "https://forks007.github.io/csb-m3oedj/static/js/runtime-main.02a6858e.js.map",
+    "static/js/2.89dc31d8.chunk.js": "https://forks007.github.io/csb-m3oedj/static/js/2.89dc31d8.chunk.js",
+    "static/js/2.89dc31d8.chunk.js.map": "https://forks007.github.io/csb-m3oedj/static/js/2.89dc31d8.chunk.js.map",
+    "index.html": "https://forks007.github.io/csb-m3oedj/index.html",
+    "static/css/main.060d2b15.chunk.css.map": "https://forks007.github.io/csb-m3oedj/static/css/main.060d2b15.chunk.css.map",
+    "static/js/2.89dc31d8.chunk.js.LICENSE.txt": "https://forks007.github.io/csb-m3oedj/static/js/2.89dc31d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02a6858e.js",
+    "static/js/2.89dc31d8.chunk.js",
+    "static/css/main.060d2b15.chunk.css",
+    "static/js/main.d1d81e20.chunk.js"
+  ]
+}
